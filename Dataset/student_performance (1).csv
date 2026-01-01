@@ -1,0 +1,101 @@
+Student_ID,Name,Class,Gender,Age,City,Parental_Education,Income_Level,Maths,Science,English,Total Classes Held,Total Classes Attended,Participation Score,Extra-Curricular Involvement,Homework Completion Rate (%),Study Hours Per Week,Parent Involvement,Access to Internet,Device Used for Learning,Online Learning Attendance (%),Total Marks,Percentage,Rank in Class,Pass/Fail,GPA,Attendance (%)
+1,Student 1,Grade 12,Female,18,Chicago,Graduate,Medium,63,47,89,182,117,3,No,73,22,Low,Yes,PC,54,199,66.33333333,18,Pass,2.653333333,64.28571429
+2,Student 2,Grade 10,Female,15,Los Angeles,High School,Low,74,87,67,197,137,1,Yes,74,11,Medium,Yes,Tablet,92,228,76,11.5,Pass,3.04,69.54314721
+3,Student 3,Grade 12,Female,17,Chicago,Graduate,Low,88,84,67,191,198,6,Yes,56,14,High,No,PC,94,239,79.66666667,3.5,Pass,3.186666667,103.6649215
+4,Student 4,Grade 12,Male,16,Chicago,Postgraduate,Low,74,40,76,180,114,2,Yes,55,11,Medium,Yes,Mobile,80,190,63.33333333,23,Pass,2.533333333,63.33333333
+5,Student 5,Grade 10,Male,15,Houston,Graduate,Low,87,61,80,191,163,8,No,73,5,Medium,No,Mobile,72,228,76,11.5,Pass,3.04,85.34031414
+6,Student 6,Grade 10,Male,15,Houston,Graduate,Low,75,91,75,184,188,5,Yes,82,23,High,Yes,Tablet,91,241,80.33333333,6,Pass,3.213333333,102.173913
+7,Student 7,Grade 12,Male,15,New York,Postgraduate,High,57,56,66,196,127,7,No,98,20,High,No,Mobile,59,179,59.66666667,26,Pass,2.386666667,64.79591837
+8,Student 8,Grade 11,Female,17,New York,Graduate,High,88,46,93,195,173,2,No,78,23,High,No,PC,81,227,75.66666667,9,Pass,3.026666667,88.71794872
+9,Student 9,Grade 12,Male,16,Los Angeles,Graduate,Low,78,64,56,194,138,8,No,92,8,High,No,Mobile,92,198,66,20,Pass,2.64,71.13402062
+10,Student 10,Grade 12,Male,15,New York,Postgraduate,Medium,71,84,48,194,156,2,No,71,22,High,No,PC,79,203,67.66666667,15,Pass,2.706666667,80.41237113
+11,Student 11,Grade 12,Male,18,Chicago,Graduate,Low,63,43,72,184,116,4,No,75,6,High,Yes,PC,88,178,59.33333333,27,Pass,2.373333333,63.04347826
+12,Student 12,Grade 12,Male,15,Houston,Postgraduate,High,62,75,92,193,185,1,No,77,5,High,Yes,Mobile,80,229,76.33333333,6,Pass,3.053333333,95.85492228
+13,Student 13,Grade 10,Male,15,New York,Graduate,High,71,45,59,181,189,5,Yes,99,19,Low,No,Tablet,67,175,58.33333333,29,Pass,2.333333333,104.4198895
+14,Student 14,Grade 12,Female,17,New York,Postgraduate,Medium,76,99,52,190,143,9,Yes,70,9,Medium,No,Mobile,85,227,75.66666667,7.5,Pass,3.026666667,75.26315789
+15,Student 15,Grade 11,Male,17,Los Angeles,Postgraduate,High,51,70,67,198,124,1,No,98,24,High,No,PC,51,188,62.66666667,31,Pass,2.506666667,62.62626263
+16,Student 16,Grade 10,Female,16,Los Angeles,Graduate,Low,88,58,87,186,116,9,No,56,15,Low,Yes,PC,63,233,77.66666667,9,Pass,3.106666667,62.3655914
+17,Student 17,Grade 11,Male,18,Chicago,Graduate,Medium,94,83,68,185,112,8,Yes,66,14,Low,Yes,Mobile,62,245,81.66666667,4,Pass,3.266666667,60.54054054
+18,Student 18,Grade 11,Female,17,Houston,Graduate,Low,52,93,52,181,183,6,No,69,6,Low,Yes,Tablet,78,197,65.66666667,28,Pass,2.626666667,101.1049724
+19,Student 19,Grade 11,Male,15,Los Angeles,High School,Low,62,78,85,185,124,7,No,90,7,Medium,Yes,Tablet,61,225,75,10,Pass,3,67.02702703
+20,Student 20,Grade 11,Male,16,New York,High School,Medium,64,66,74,197,167,3,Yes,98,16,High,No,PC,88,204,68,25,Pass,2.72,84.7715736
+21,Student 21,Grade 10,Female,15,Houston,High School,Low,74,49,45,181,109,1,No,69,24,Low,No,PC,51,168,56,31,Pass,2.24,60.22099448
+22,Student 22,Grade 10,Female,15,Houston,Postgraduate,High,80,65,57,197,166,5,No,71,9,Medium,No,Tablet,81,202,67.33333333,19,Pass,2.693333333,84.26395939
+23,Student 23,Grade 11,Female,17,New York,Graduate,Low,69,58,90,194,117,2,No,77,9,Medium,Yes,Mobile,62,217,72.33333333,16.5,Pass,2.893333333,60.30927835
+24,Student 24,Grade 11,Male,16,Los Angeles,Postgraduate,Medium,56,78,44,198,199,5,Yes,89,10,Medium,Yes,PC,95,178,59.33333333,33,Pass,2.373333333,100.5050505
+25,Student 25,Grade 10,Female,18,New York,High School,Medium,88,42,86,181,185,8,Yes,98,13,Low,Yes,PC,76,216,72,15,Pass,2.88,102.2099448
+26,Student 26,Grade 10,Male,18,Houston,Graduate,Medium,59,84,64,199,133,9,Yes,56,6,High,No,Tablet,98,207,69,18,Pass,2.76,66.83417085
+27,Student 27,Grade 10,Male,17,Phoenix,Postgraduate,Low,87,52,41,185,107,2,No,50,16,Low,No,Mobile,90,180,60,28,Pass,2.4,57.83783784
+28,Student 28,Grade 12,Female,17,Phoenix,Graduate,Medium,64,89,49,180,139,3,No,81,7,Low,Yes,Tablet,66,202,67.33333333,16,Pass,2.693333333,77.22222222
+29,Student 29,Grade 12,Female,16,Chicago,Postgraduate,Medium,61,67,95,194,182,3,Yes,62,24,High,No,Mobile,89,223,74.33333333,10,Pass,2.973333333,93.81443299
+30,Student 30,Grade 12,Male,18,New York,Graduate,Low,52,97,69,189,141,1,No,79,16,High,Yes,Mobile,80,218,72.66666667,13,Pass,2.906666667,74.6031746
+31,Student 31,Grade 11,Male,18,New York,High School,High,98,59,89,198,140,8,No,72,21,High,Yes,Mobile,83,246,82,2.5,Pass,3.28,70.70707071
+32,Student 32,Grade 12,Female,18,Chicago,High School,Low,58,67,98,196,105,6,No,68,14,Medium,No,PC,73,223,74.33333333,10,Pass,2.973333333,53.57142857
+33,Student 33,Grade 11,Female,15,Chicago,Graduate,Medium,88,47,84,184,151,8,No,81,18,High,Yes,Tablet,94,219,73,15,Pass,2.92,82.06521739
+34,Student 34,Grade 11,Female,18,Chicago,Postgraduate,Medium,75,80,44,183,125,9,No,79,21,Low,No,Tablet,84,199,66.33333333,27,Pass,2.653333333,68.30601093
+35,Student 35,Grade 12,Male,15,Houston,High School,Low,51,78,94,189,163,5,Yes,78,22,High,Yes,Mobile,97,223,74.33333333,10,Pass,2.973333333,86.24338624
+36,Student 36,Grade 11,Male,16,New York,High School,High,80,40,95,196,197,3,No,98,23,Low,No,PC,55,215,71.66666667,18,Pass,2.866666667,100.5102041
+37,Student 37,Grade 12,Male,15,Houston,High School,Medium,58,42,72,189,158,5,Yes,94,21,Medium,No,PC,68,172,57.33333333,29.5,Pass,2.293333333,83.5978836
+38,Student 38,Grade 12,Male,16,Chicago,Graduate,Medium,51,52,93,196,155,5,No,78,18,Low,No,Tablet,79,196,65.33333333,21.5,Pass,2.613333333,79.08163265
+39,Student 39,Grade 10,Male,18,New York,Graduate,Medium,48,67,40,199,158,5,Yes,79,13,Low,Yes,PC,56,155,51.66666667,33,Pass,2.066666667,79.39698492
+40,Student 40,Grade 12,Male,18,Houston,Postgraduate,Low,46,96,57,184,169,3,No,65,12,High,Yes,PC,59,199,66.33333333,18,Pass,2.653333333,91.84782609
+41,Student 41,Grade 10,Female,16,Houston,Postgraduate,Medium,67,99,71,181,132,4,Yes,89,6,High,No,Mobile,90,237,79,7,Pass,3.16,72.9281768
+42,Student 42,Grade 12,Male,17,Chicago,Postgraduate,High,53,88,86,185,152,9,No,68,17,Low,No,PC,81,227,75.66666667,7.5,Pass,3.026666667,82.16216216
+43,Student 43,Grade 12,Male,16,New York,Graduate,Medium,70,64,88,181,121,9,Yes,67,11,High,Yes,Mobile,83,222,74,12,Pass,2.96,66.85082873
+44,Student 44,Grade 10,Male,17,Chicago,Graduate,Medium,91,95,50,192,120,2,No,50,13,Medium,Yes,Tablet,77,236,78.66666667,8,Pass,3.146666667,62.5
+45,Student 45,Grade 10,Female,15,New York,Postgraduate,High,58,72,60,190,169,8,Yes,63,15,Medium,Yes,PC,64,190,63.33333333,21,Pass,2.533333333,88.94736842
+46,Student 46,Grade 12,Male,15,Phoenix,Postgraduate,Medium,97,77,65,190,169,8,No,96,18,High,No,Tablet,79,239,79.66666667,3.5,Pass,3.186666667,88.94736842
+47,Student 47,Grade 11,Male,15,Los Angeles,Graduate,Low,86,92,64,195,103,7,Yes,99,8,Medium,Yes,Tablet,86,242,80.66666667,5.5,Pass,3.226666667,52.82051282
+48,Student 48,Grade 10,Female,18,Los Angeles,Postgraduate,Low,55,45,61,190,193,8,Yes,51,17,High,Yes,PC,78,161,53.66666667,32,Pass,2.146666667,101.5789474
+49,Student 49,Grade 11,Male,15,Los Angeles,High School,Low,92,97,98,198,174,3,No,77,6,Low,No,PC,71,287,95.66666667,1,Pass,3.826666667,87.87878788
+50,Student 50,Grade 11,Male,17,Chicago,Graduate,High,44,83,66,194,161,6,No,98,9,Low,Yes,Tablet,53,193,64.33333333,30,Pass,2.573333333,82.98969072
+51,Student 51,Grade 11,Male,15,Phoenix,Postgraduate,Medium,74,84,88,195,161,1,Yes,99,15,Medium,Yes,PC,69,246,82,2.5,Pass,3.28,82.56410256
+52,Student 52,Grade 10,Male,16,New York,Graduate,Low,51,71,52,190,193,7,No,79,10,High,Yes,Mobile,81,174,58,30,Pass,2.32,101.5789474
+53,Student 53,Grade 11,Male,16,Houston,High School,High,64,84,72,195,194,1,Yes,87,22,High,No,Mobile,85,220,73.33333333,13.5,Pass,2.933333333,99.48717949
+54,Student 54,Grade 10,Female,18,New York,Graduate,Medium,91,86,73,187,123,9,Yes,53,14,Medium,No,PC,99,250,83.33333333,2.5,Pass,3.333333333,65.77540107
+55,Student 55,Grade 11,Female,16,Houston,Graduate,High,98,60,80,183,154,1,Yes,50,8,Low,No,Tablet,53,238,79.33333333,7,Pass,3.173333333,84.15300546
+56,Student 56,Grade 12,Female,17,New York,Graduate,Low,60,55,74,187,108,1,No,57,13,Medium,No,PC,76,189,63,24,Pass,2.52,57.7540107
+57,Student 57,Grade 12,Male,15,Phoenix,Graduate,Low,75,93,40,183,102,7,Yes,78,10,Low,No,PC,66,208,69.33333333,14,Pass,2.773333333,55.73770492
+58,Student 58,Grade 10,Male,18,Houston,High School,Low,92,60,60,182,130,2,Yes,88,6,High,No,Tablet,61,212,70.66666667,17,Pass,2.826666667,71.42857143
+59,Student 59,Grade 12,Male,15,Chicago,Graduate,High,62,50,87,182,139,5,No,52,21,Low,No,Tablet,71,199,66.33333333,18,Pass,2.653333333,76.37362637
+60,Student 60,Grade 12,Female,15,New York,Graduate,High,55,99,94,197,135,8,No,81,9,Medium,Yes,Mobile,66,248,82.66666667,1,Pass,3.306666667,68.52791878
+61,Student 61,Grade 11,Male,17,New York,Postgraduate,Low,96,76,45,198,123,8,No,59,10,High,Yes,Tablet,59,217,72.33333333,16.5,Pass,2.893333333,62.12121212
+62,Student 62,Grade 10,Male,16,Houston,Graduate,High,78,75,67,198,194,3,No,59,16,Medium,No,Mobile,50,220,73.33333333,13,Pass,2.933333333,97.97979798
+63,Student 63,Grade 11,Female,16,Chicago,Postgraduate,Low,84,74,56,184,105,7,Yes,68,14,Medium,Yes,Tablet,71,214,71.33333333,19,Pass,2.853333333,57.06521739
+64,Student 64,Grade 11,Male,15,Chicago,High School,Low,92,58,44,197,165,3,Yes,95,10,Low,Yes,PC,75,194,64.66666667,29,Pass,2.586666667,83.75634518
+65,Student 65,Grade 11,Female,18,Phoenix,High School,Medium,81,59,70,189,183,6,Yes,83,12,Medium,No,Mobile,67,210,70,21,Pass,2.8,96.82539683
+66,Student 66,Grade 11,Female,16,Chicago,High School,High,97,96,44,185,191,6,Yes,82,6,Low,Yes,Mobile,99,237,79,8,Pass,3.16,103.2432432
+67,Student 67,Grade 11,Female,18,Chicago,High School,Low,78,57,77,180,174,3,No,72,16,High,Yes,Mobile,63,212,70.66666667,20,Pass,2.826666667,96.66666667
+68,Student 68,Grade 11,Male,16,Chicago,Postgraduate,Low,53,86,42,184,103,7,Yes,77,17,Low,Yes,PC,96,181,60.33333333,32,Pass,2.413333333,55.97826087
+69,Student 69,Grade 11,Male,18,Los Angeles,Graduate,High,70,80,92,188,178,3,Yes,81,11,High,Yes,PC,78,242,80.66666667,5.5,Pass,3.226666667,94.68085106
+70,Student 70,Grade 10,Male,17,Phoenix,High School,Medium,97,88,62,191,105,8,No,99,14,Low,Yes,PC,61,247,82.33333333,5,Pass,3.293333333,54.97382199
+71,Student 71,Grade 12,Male,18,New York,Graduate,Medium,44,53,76,193,193,4,Yes,56,17,Medium,No,PC,85,173,57.66666667,28,Pass,2.306666667,100
+72,Student 72,Grade 11,Male,17,Houston,Postgraduate,Low,74,54,92,181,150,1,Yes,78,21,Low,No,PC,84,220,73.33333333,13.5,Pass,2.933333333,82.87292818
+73,Student 73,Grade 11,Male,17,New York,Postgraduate,High,62,70,76,196,161,4,Yes,57,18,Low,No,Mobile,61,208,69.33333333,23,Pass,2.773333333,82.14285714
+74,Student 74,Grade 11,Male,18,Phoenix,Postgraduate,Medium,68,40,49,193,156,7,Yes,50,6,High,Yes,PC,56,157,52.33333333,35,Pass,2.093333333,80.82901554
+75,Student 75,Grade 11,Female,17,Houston,High School,High,82,92,49,192,165,4,Yes,52,15,Medium,No,Mobile,78,223,74.33333333,12,Pass,2.973333333,85.9375
+76,Student 76,Grade 11,Male,15,Phoenix,Graduate,High,50,93,58,188,178,6,Yes,73,5,Low,Yes,PC,60,201,67,26,Pass,2.68,94.68085106
+77,Student 77,Grade 11,Female,17,Chicago,Graduate,Low,57,93,56,194,174,9,No,72,23,Medium,Yes,Tablet,82,206,68.66666667,24,Pass,2.746666667,89.69072165
+78,Student 78,Grade 12,Male,16,Houston,Graduate,Medium,86,42,60,194,107,1,No,57,8,Low,Yes,Mobile,55,188,62.66666667,25,Pass,2.506666667,55.15463918
+79,Student 79,Grade 12,Male,18,Chicago,Postgraduate,Low,51,55,53,190,125,5,Yes,96,23,Low,Yes,Tablet,96,159,53,31,Pass,2.12,65.78947368
+80,Student 80,Grade 11,Male,15,New York,High School,Medium,48,62,48,195,150,7,Yes,86,15,Medium,No,Mobile,64,158,52.66666667,34,Pass,2.106666667,76.92307692
+81,Student 81,Grade 12,Female,18,New York,Postgraduate,Medium,49,96,85,196,144,1,No,52,12,Low,No,Tablet,81,230,76.66666667,5,Pass,3.066666667,73.46938776
+82,Student 82,Grade 10,Female,16,Houston,Postgraduate,Medium,97,50,40,183,143,4,Yes,82,15,Medium,Yes,PC,60,187,62.33333333,24,Pass,2.493333333,78.1420765
+83,Student 83,Grade 11,Female,16,Houston,Graduate,Medium,83,51,90,180,104,6,Yes,77,8,Low,No,PC,72,224,74.66666667,11,Pass,2.986666667,57.77777778
+84,Student 84,Grade 10,Female,16,Phoenix,Postgraduate,Medium,56,49,84,187,169,2,Yes,96,21,High,Yes,PC,75,189,63,22,Pass,2.52,90.37433155
+85,Student 85,Grade 10,Male,17,Phoenix,Graduate,High,77,71,52,196,125,5,No,57,11,Medium,No,Mobile,83,200,66.66666667,20,Pass,2.666666667,63.7755102
+86,Student 86,Grade 11,Female,17,Chicago,High School,Low,46,55,43,182,167,1,Yes,83,12,Low,No,Tablet,95,144,48,36,Pass,1.92,91.75824176
+87,Student 87,Grade 12,Male,18,Houston,Graduate,High,85,47,40,199,118,6,No,84,7,Low,Yes,PC,83,172,57.33333333,29.5,Pass,2.293333333,59.29648241
+88,Student 88,Grade 10,Male,18,New York,High School,Medium,52,77,88,194,183,6,Yes,81,6,High,No,Tablet,78,217,72.33333333,14,Pass,2.893333333,94.32989691
+89,Student 89,Grade 11,Female,15,Phoenix,Graduate,Low,79,51,79,194,196,4,No,73,19,Medium,Yes,Tablet,53,209,69.66666667,22,Pass,2.786666667,101.0309278
+90,Student 90,Grade 10,Female,15,Phoenix,Postgraduate,Medium,81,63,71,193,119,8,No,63,9,Low,No,PC,66,215,71.66666667,16,Pass,2.866666667,61.65803109
+91,Student 91,Grade 10,Female,18,New York,Postgraduate,Low,48,67,73,193,111,4,Yes,81,5,High,Yes,PC,84,188,62.66666667,23,Pass,2.506666667,57.51295337
+92,Student 92,Grade 10,Female,17,Phoenix,High School,High,89,92,67,181,146,8,No,95,8,Low,Yes,Tablet,62,248,82.66666667,4,Pass,3.306666667,80.66298343
+93,Student 93,Grade 10,Female,16,Chicago,High School,Low,66,47,70,192,100,8,Yes,92,19,Medium,No,PC,90,183,61,27,Pass,2.44,52.08333333
+94,Student 94,Grade 12,Female,18,Houston,High School,Low,97,97,47,193,189,5,No,65,24,Low,No,PC,88,241,80.33333333,2,Pass,3.213333333,97.92746114
+95,Student 95,Grade 10,Female,15,New York,Graduate,Low,41,67,78,198,113,4,Yes,53,23,Low,Yes,PC,64,186,62,25,Pass,2.48,57.07070707
+96,Student 96,Grade 10,Female,17,Houston,Graduate,Low,44,75,65,186,163,2,Yes,86,7,Low,No,Mobile,78,184,61.33333333,26,Pass,2.453333333,87.6344086
+97,Student 97,Grade 10,Male,18,Phoenix,High School,Low,68,65,97,182,137,3,No,70,24,Low,No,Tablet,78,230,76.66666667,10,Pass,3.066666667,75.27472527
+98,Student 98,Grade 12,Female,18,Phoenix,Postgraduate,Medium,76,47,73,194,136,3,Yes,63,15,High,Yes,Tablet,60,196,65.33333333,21.5,Pass,2.613333333,70.10309278
+99,Student 99,Grade 10,Female,17,New York,Graduate,Low,77,97,93,193,110,4,Yes,80,21,High,Yes,Mobile,81,267,89,1,Pass,3.56,56.99481865
+100,Student 100,Grade 10,Male,18,Chicago,Graduate,Low,58,99,93,190,199,4,No,97,17,Medium,No,Tablet,51,250,83.33333333,2.5,Pass,3.333333333,104.7368421
